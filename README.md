@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahiljeet Singh Kalsi</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostofweb&label=Profile%20views&color=0e75b6&style=flat" alt="ghostofweb" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghostofweb" alt="ghostofweb" /></a> </p>
 
@@ -11,14 +11,14 @@
 
 - 👨‍💻 All of my projects are available at [https://ghostofweb.vercel.app/](https://ghostofweb.vercel.app/)
 
-- 📫 How to reach me **Sahiljeet Singh Kalsi**
+- 📫 How to reach me **sahiljeetsinghkalsi@gmail.com**
 
 - ⚡ Fun fact **I’m a full-stack developer who loves coding, psychology, and AI—but somehow, I always end up in deep conversations about life, emotions, and human behavior. I can spend hours debugging code and then randomly switch to analyzing why people think the way they do. Basically, I build websites by day and psychoanalyze people by night. 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nkedin.com/in/sahiljeet-singh-kalsi-085844244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nkedin.com/in/sahiljeet-singh-kalsi-085844244/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sahiljeet_kk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sahiljeet_kk/" height="30" width="40" /></a>
+<a href="https://instagram.com/sahiljeet_kk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sahiljeet_kk/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
