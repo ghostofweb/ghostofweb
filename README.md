@@ -20,11 +20,17 @@ My background in psychology shapes what I choose to build. I'm drawn to conversa
  
 ## Selected work
  
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[CipherSprint](https://github.com/ghostofweb/CipherSprint)** | One line on what it is and who it's for — plus the hard part (realtime state? auth? scoring?). | `Next.js` `Node` `MongoDB` |
-| **[Gaberina](https://github.com/ghostofweb/Gaberina)** | One line. Link the live deployment if there is one. | `React` `Express` `PostgreSQL` |
-| **[Divine Pellets](https://github.com/ghostofweb/DivinePellets)** | One line. Name a real outcome if you have one — orders, users, launch. | `Next.js` `Tailwind` `Firebase` |
+**[Make Video Small](https://github.com/ghostofweb/makevideosmall)** — A desktop app that puts a real interface on AV1 encoding, so you get FFmpeg and Av1an results without the command line. Handles hardware-accelerated encoding on NVENC and AMF, inspects your machine and media to suggest sensible parameters, and runs batch queues. Everything stays local — no uploads. Ships as a signed NSIS installer with an auto-updater.
+`Electron` `React 19` `TypeScript` `Python` `FFmpeg / Av1an` `Vite`
+ 
+The interesting problem here was the seam between three runtimes: an Electron renderer talking over a locked-down IPC bridge to a main process, which in turn supervises long-running Python and FFmpeg subprocesses — streaming progress back without blocking the UI or leaking a process when a job is cancelled.
+ 
+**[Gaberina](https://github.com/ghostofweb/Gaberina)** — Full-stack e-commerce built as three deployables: a storefront, an Express API, and a separate admin panel for product and order management. Covers the parts that are easy to hand-wave and annoying to actually ship — JWT auth, cart and order state, filtering and sort, Cloudinary image uploads, and live payments through Razorpay and Stripe.
+`React` `Vite` `Node.js` `Express` `MongoDB` `Stripe / Razorpay`
+ 
+**[CipherSprint](https://github.com/ghostofweb/CipherSprint)** — A typing test that measures WPM and accuracy in real time, with Google sign-in, a leaderboard, and charts tracking progress across sessions. Accuracy is scored per character against the source text — correct, incorrect, extra and missed are counted separately rather than collapsed into a single "wrong."
+`React` `Vite` `Firebase (Auth + Firestore)` `Chart.js` `Tailwind`
+[Live →](https://ciphersprint.vercel.app/)
  
 ## Working with
  
@@ -36,6 +42,13 @@ My background in psychology shapes what I choose to build. I'm drawn to conversa
  
 **Backend** &nbsp;&nbsp; Node.js · Express · REST APIs · JWT auth
  
+**Desktop** &nbsp;&nbsp; Electron · IPC bridging · electron-builder
+ 
 **Data** &nbsp;&nbsp; PostgreSQL · MongoDB · Firebase
  
-**Tooling** &nbsp;&nbsp; Git · Vercel · Postman
+**Tooling** &nbsp;&nbsp; Git · Vite · Vercel · Postman
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ghostofweb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ghostofweb&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostofweb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
