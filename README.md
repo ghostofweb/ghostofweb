@@ -1,18 +1,41 @@
-# 💫 About Me:
-Hey there! I'm Sahiljeet Singh Kalsi, a Full-Stack Developer with a passion for building meaningful tech solutions. I love combining psychology, AI, and development to create innovative projects.<br><br>💻 Tech Stack: React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Firebase, Tailwind CSS, Three.js, Kotlin (Android).<br>🧠 Interests: AI/ML, NLP, Generative AI, SaaS, Conversational AI, and Human-Computer Interaction.<br>I love solving real-world problems through tech.<br>I explore AI-powered applications in psychology & social impact.<br>📫 Let's Connect<br>🌐 Portfolio: ghostofweb.vercel.app<br>🏗 Projects: CipherSprint | Gaberina | Divine Pellets<br>💬 Let's Talk: Drop a message to discuss tech, AI, or just have a fun conversation!<br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahiljeet_kk) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahiljeet-singh-kalsi-085844244/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahiljeetsinghkalsi@gmail.com)  
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ghostofweb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ghostofweb&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostofweb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+# Sahiljeet Singh Kalsi
+ 
+**Full-stack developer · Building with LLMs and agentic systems**
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-ghostofweb.vercel.app-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://ghostofweb.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahiljeet-singh-kalsi-085844244/)
+[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sahiljeetsinghkalsi@gmail.com)
+ 
+</div>
+---
+ 
+I build web applications in TypeScript — React, Next.js, Node — and increasingly spend my time on the layer above the model: **agentic systems, harnesses, and generative AI in production**.
+ 
+The part I find interesting isn't prompting. It's everything around it — tool-calling loops that don't spiral, retrieval that returns the right chunk, evals that catch a regression before a user does, and failure handling for a component that is non-deterministic by design. Most of the engineering in a good AI product lives there.
+ 
+My background in psychology shapes what I choose to build. I'm drawn to conversational systems for mental health and social impact, and to the harder question underneath them: how people calibrate trust in what a model tells them, and what an interface owes a user when the answer might be wrong.
+ 
+**Currently:** deepening on agent orchestration, RAG evaluation, and multi-step tool use.
+ 
+## Selected work
+ 
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **[CipherSprint](https://github.com/ghostofweb/CipherSprint)** | One line on what it is and who it's for — plus the hard part (realtime state? auth? scoring?). | `Next.js` `Node` `MongoDB` |
+| **[Gaberina](https://github.com/ghostofweb/Gaberina)** | One line. Link the live deployment if there is one. | `React` `Express` `PostgreSQL` |
+| **[Divine Pellets](https://github.com/ghostofweb/DivinePellets)** | One line. Name a real outcome if you have one — orders, users, launch. | `Next.js` `Tailwind` `Firebase` |
+ 
+## Working with
+ 
+**AI/ML** &nbsp;&nbsp; LLM APIs · Agentic workflows & tool calling · RAG · Vector search · Prompt & eval tooling · NLP
+ 
+**Languages** &nbsp;&nbsp; TypeScript · JavaScript · Python · Kotlin · C++
+ 
+**Frontend** &nbsp;&nbsp; React · Next.js · Tailwind CSS · Three.js
+ 
+**Backend** &nbsp;&nbsp; Node.js · Express · REST APIs · JWT auth
+ 
+**Data** &nbsp;&nbsp; PostgreSQL · MongoDB · Firebase
+ 
+**Tooling** &nbsp;&nbsp; Git · Vercel · Postman
