@@ -1,5 +1,5 @@
 <div align="center">
-# Sahiljeet Singh Kalsi
+Sahiljeet Singh Kalsi
  
 **Full-stack developer · Building with LLMs and agentic systems**
  
@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sahiljeetsinghkalsi@gmail.com)
  
 </div>
----
+
  
 I build web applications in TypeScript — React, Next.js, Node — and increasingly spend my time on the layer above the model: **agentic systems, harnesses, and generative AI in production**.
  
